@@ -7,6 +7,8 @@
 
 import UIKit
 
+//로그인 페이지 구현
+
 class LoginViewController: UIViewController {
 
     var email = String()

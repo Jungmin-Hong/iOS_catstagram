@@ -329,7 +329,7 @@
                             </label>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="g2H-l8-KmA"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <color key="backgroundColor" name="disabledButtonColor"/>
                         <constraints>
                             <constraint firstItem="O6l-kJ-b59" firstAttribute="centerY" secondItem="37Z-4I-WeK" secondAttribute="centerY" id="PW3-yp-hZl"/>
                             <constraint firstItem="O6l-kJ-b59" firstAttribute="centerX" secondItem="37Z-4I-WeK" secondAttribute="centerX" id="yzQ-6w-75u"/>
@@ -357,7 +357,7 @@
                             </label>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="yk7-50-W5R"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <color key="backgroundColor" name="disabledButtonColor"/>
                         <constraints>
                             <constraint firstItem="G4z-Zf-MhH" firstAttribute="centerY" secondItem="zCu-Ta-vYP" secondAttribute="centerY" id="5Uk-D0-uNs"/>
                             <constraint firstItem="G4z-Zf-MhH" firstAttribute="centerX" secondItem="zCu-Ta-vYP" secondAttribute="centerX" id="rUg-gL-NUZ"/>
@@ -412,6 +412,9 @@
         <image name="ic_catstagram_logo" width="476" height="96"/>
         <namedColor name="AccentColor">
             <color red="0.0" green="0.46000000000000002" blue="0.89000000000000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+        <namedColor name="disabledButtonColor">
+            <color red="0.77647058823529413" green="0.87058823529411766" blue="0.98039215686274506" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </namedColor>
         <namedColor name="facebookColor">
             <color red="0.25490196078431371" green="0.57647058823529407" blue="0.93725490196078431" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>

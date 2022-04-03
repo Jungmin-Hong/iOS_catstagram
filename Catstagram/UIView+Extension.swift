@@ -7,7 +7,7 @@
 
 import UIKit
 
-extension UIView {
+extension UIView { //만들어두면 편함
     @IBInspectable var cornerRadius: CGFloat {
         get {
             return layer.cornerRadius

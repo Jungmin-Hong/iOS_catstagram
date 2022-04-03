@@ -7,6 +7,7 @@
 
 import Foundation
 
+//userinfo 구조체
 struct UserInfo {
     let email: String
     let name: String

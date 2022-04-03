@@ -7,6 +7,8 @@
 
 import UIKit
 
+//회원가입 페이지 구현
+
 class RegisterViewController: UIViewController {
     
     //MARK: - Properties
@@ -180,4 +182,5 @@ extension String {
         return emailTest.evaluate(with: self)
     }
 }
+
 

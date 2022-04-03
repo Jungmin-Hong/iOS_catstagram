@@ -7,7 +7,7 @@
 
 import UIKit
 
-extension UIColor {
+extension UIColor { //색상표
     static let facebookColor = UIColor(
         red: 0.255,
         green: 0.576,
