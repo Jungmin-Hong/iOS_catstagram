@@ -62,7 +62,7 @@ class RegisterViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         self.signupButton.isEnabled = false
-        self.signupButton.backgroundColor = UIColor.disabledButtonColor
+//        self.signupButton.backgroundColor = UIColor.disabledButtonColor
         setupTextField()
         setupAttribute()
         
